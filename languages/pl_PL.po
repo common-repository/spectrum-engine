@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectrum\n"
+"POT-Creation-Date: 2017-08-07 18:11+0700\n"
+"PO-Revision-Date: 2017-09-08 20:03+0200\n"
+"Language-Team: RapidDev <kontakt@rapiddev.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "CRITICAL ERROR"
+msgstr "KRYTYCZNY BŁĄD"
+
+msgid "ERROR ID"
+msgstr "KOD BŁĘDU"
+
+msgid "failed to load the"
+msgstr "nie załadował pliku"
+
+msgid "file"
+msgstr " "
+
+msgid "The"
+msgstr " "
+
+msgid "The entire functionality of the plugin was discontinued"
+msgstr "Cała funkcjonalność wtyczki została wyłączona"
+
+msgid "requires at least"
+msgstr "wymaga conajmniej"
+
+msgid "You need to update your server"
+msgstr "Musisz zaktualizować swój serwer"
+
+msgid "Edit your options and customization menu"
+msgstr "Edytuj twoje opcje i menu personalizacji"
+
+msgid "How to use the options"
+msgstr "Jak korzystać z opcji"
+
+msgid "You can use your own features wherever you want"
+msgstr "Możesz korzystać z twoich rozwiązań gdzie tylko zechcesz"
+
+msgid "If you want to use the option somewhere in your files, use the function"
+msgstr "Jeśli chcesz skorzystać z opcji gdzieś w twoich plikach, skorzystaj z funkcji"
+
+msgid "It supports auto-refresh if you're in customizer"
+msgstr "Wsperia automatyczne odświeżanie jeśli jesteś w personalizacji"
+
+msgid "If you want to use the option in your post or pages use the shortcode"
+msgstr "Jeśli chcesz skorzystać z opcji w twoich wpisach lub na stronach, skorzystaj z shortcode"
+
+msgid "This feature also supports automatic refresh of content after changes in customizer"
+msgstr "To rozwiązanie również wsperia automatyczne odświeżanie treści po zmianach w personalizacji"
+
+msgid "Google Fonts"
+msgstr "Czcionki Google"
+
+msgid "Currently, Google fonts are implemented in Spectrum, you can remove this option, but if you want it, just use it"
+msgstr "Aktualnie we wtyczkę zostały zaimplementowane czcionki Google, możesz usunąć tę funkcjonalność, ale jeśli chcesz to po prostu jej używaj"
+
+msgid "Your Google font address looks like this"
+msgstr "Twój adres czcionki Google wygląda tak"
+
+msgid "To take this address use the function"
+msgstr "Aby pobrać ten adres użyj funkcji"
+
+msgid "option_id"
+msgstr "id_opcji"
+
+msgid "Your customization menu"
+msgstr "Twoje menu personalizacji"
+
+msgid "Your options"
+msgstr "Twoje opcje"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "Section"
+msgstr "Sekcja"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Default value"
+msgstr "Domyślna wartość"
+
+msgid "Created by"
+msgstr "Stworzony przez"
+
+msgid "Styles powered by"
+msgstr "Style napędzane przez"
+
+msgid "was created by"
+msgstr "został stworzony przez"
+
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+msgid "License"
+msgstr "Licencja"
+
+msgid "Visit the creators page"
+msgstr "Odwiedź stronę twórców"
+
+msgid "Developer tool, allowing you to create an extensive customizer menu and global options from a simple tables"
+msgstr "Narzędzie deweloperskie, pozwalające tworzyć zaawansowane menu personalizacji i globalne opcje za pomocą prostych tabel"
+
+msgid "This tool was created by the creativity of many people. Hundreds of programmers, graphic designers, engineers and other artists who make up WordPress, PHP, MySQL and other technolgies make creation easy as never before. Thank you for using my contribution to facilitating your development"
+msgstr "To narzędzie powstało dzięki kreatywności wielu ludzi. Dziesiątki programistów, projektantów graficznych, inżynierów i innych artystów którzy stworzyli WordPressa, PHP, MySQL oraz inne technologie sprawiają, że uwalnianie swojej kreatywności jest proste jak nigdy dotąd. Dziękuję, że korzystasz z mojego wkładu w ułatwianie twojego rozwoju"
